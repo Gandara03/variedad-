@@ -1,0 +1,184 @@
+body {
+	background-color: #810000;
+	margin:30px auto;
+	width: 1200px;
+}
+body p{
+	margin:5px;
+}
+p{
+	color:white;
+	font:15px  Helvetica, Arial, sans-serif;
+	text-align: justify;
+
+}
+main{
+	background:#500101;
+}
+a{
+	color:red;
+	font:none;
+	text-decoration: none;
+}
+table{
+	background:#DD1616;
+	margin-left:15px;
+	border-collapse: collapse;
+	border:1px solid black;
+}
+table th{
+	color:#FF0000;
+	padding: 2px;
+	border:1px solid black;
+}
+table thead{
+	background:#590101;
+	border:1px solid black;
+}
+th{
+	padding: 2px;
+	border:1px solid black;
+}
+caption{
+	border:1px solid black;
+	border-collapse: collapse;
+	background:#590101;
+	color:white;
+}
+#header1{
+	background-image:url(http://cdn2.ipauta.com/wp-content/uploads/2018/07/Anuel-Real-Hasta-La-Muerte-Covers.jpg);
+	background-repeat: no-repeat;
+	height: 700px;
+	width:700px;
+	margin:10px auto;
+	padding: 30px;
+}
+#header2{
+	background-image:url(https://albertonews.com/wp-content/uploads/2018/11/Daddy-Yankee-y-Anuel-estrenaron-el-videoclip-de-%E2%80%9CAdictiva%E2%80%9D.jpg);
+	height: 680px;
+	background-repeat: no-repeat;
+}
+footer{
+	background:rgba(150,150,150,0.1);
+	color:white;
+	height: 20px;
+}
+header nav{
+	text-align:center;
+	color:#5D1E1E;
+
+}
+footer p{
+	font:20px ;
+}
+h5{
+	font-size: 20px;
+	text-align:center;
+	color: #E83924;
+}
+h1{
+	font-size: 30px;
+	text-align:center;
+	color:#FF0F0F;
+	background:rgba(150,150,150,0.1);
+}
+h2{
+	font-size: 22px;
+	text-align:center;
+	color: #E83924;
+}
+h3{
+	font-size: 20px;
+	text-align:center;
+	color: #E83924;
+}
+h4{
+	font-size: 18px;
+	text-align:center;
+	color: #E83924;
+}
+h6{
+	font-size: 18px;
+	text-align:center;
+	color: #E83924;
+}
+footer p{
+	text-align: center;
+}
+p a{
+	text-decoration: none;
+}
+p a:hover{
+	color:#B40404;
+}
+table a{
+	color :#0B0B61;
+	text-decoration: none;
+}
+table a:hover{
+	color:black;
+}
+section{
+	padding:20px ;
+	margin-top: 5px;
+}
+#section2{
+	border:#AB0404 2px dotted;
+	margin: 5px;
+	margin-bottom: 5px;
+	padding: 10px;
+	display: inline-block;
+	overflow: auto;
+}
+#section2 a:hover{
+	color: purple
+}
+nav{
+
+	padding:10px ;
+	margin: 40px auto;
+	width: 100px;
+	border-radius: 180px;
+	background:rgba(150,150,150,0.1);
+}
+/*#header1 nav{
+	padding:10px;
+	margin: 40px auto;
+	width: 100px;
+	border-radius: 180px;
+	background:rgba(150,150,150,0.5);
+}
+*/
+.nav:hover{
+	color:blue;
+	background:rgba(150,150,150,0.1);
+}
+
+#img2{
+	float: left;
+	display: block;
+	margin: auto;
+	padding: 20px;
+}
+.img{
+	border-radius: 20px;
+	margin-top: 10px;
+	margin-left:360px;
+}
+iframe{
+	border-radius: 20px;
+	margin-top: 10px;
+	margin-left:300px;
+}
+p #section2{
+	clear: right;
+}
+form .nav{
+	background-color: red;
+	float: left;
+	margin-left: 150px;
+	border-radius: 180px;
+}
+form{
+	overflow: auto;
+}

@@ -1,0 +1,8 @@
+futbol:
+  altura del atleta 1: 1.67
+  altura del atleta 2: 1.89
+  altura del atleta 3: 1.80
+basquet:
+  altura del atleta 1: 1.90
+  altura del atleta 2: 1.93
+  altura del atleta 3: 1.98
